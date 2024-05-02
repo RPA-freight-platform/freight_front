@@ -7,7 +7,7 @@ cd freight-front
 yarn install
 ```
 
-## start
+## run
 ```
 yarn start
 ```
