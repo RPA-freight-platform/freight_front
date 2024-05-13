@@ -12,8 +12,9 @@ env:
 jobs:
   build:
     runs-on: ubuntu-22.04
-    env:
-      working-directory: ./freight-front
+    defaults:
+      run:
+        working-directory: ./freight-front
     steps:
       - name: Checkout source code.
         uses: actions/checkout@v2
