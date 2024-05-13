@@ -4,7 +4,7 @@ FE(react) repo입니다.
 ## init
 ```
 cd freight-front
-yarn install
+yarn
 ```
 
 ## run
